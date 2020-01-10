@@ -1,4 +1,5 @@
 initialize a
 if a%2=0
 then
-it is a even 
+it is a even
+fi 
